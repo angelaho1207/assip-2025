@@ -3,4 +3,4 @@ My research aims to model the dynamics of opioid misuse and use optimal control 
 
 # Contents
 model_0: SEIRP curves, R0 with respect to beta and gamma //
-model_1: FBSA for quadratic education control, FBSA for linear education control
+model_1: FBSA for quadratic control, FBSA for linear control, comparison between quadratic control/linear control/no intervention
